@@ -1,4 +1,4 @@
-(**Download for Windows**)[]
+(Download for Windows)[]
 
 ![marina pr2](https://github.com/user-attachments/assets/15faf178-0ad8-4e24-b18e-0e0a44e66c15)
 
