@@ -6,5 +6,7 @@
 **Auto Pan** for movement<br />
 **Saturation** for subtle dynamic shaping<br />
 
-I created Marina with simplicity and usability in mind - to give artists a fast tool that helps translate ideas into sound without getting in the way.<br />
+I created Marina with simplicity and usability in mind - to give artists a fast tool that helps translate ideas into sound without getting in the way.
+
+
 On a more personal note, Marina is dedicated to my mom, who passed away in 2022. Its name and visual design are inspired by city Riga, Latvia and the sea-nature aesthetic of Greece—two places that mean a lot to me.
