@@ -1,6 +1,7 @@
 ![marina pr2](https://github.com/user-attachments/assets/15faf178-0ad8-4e24-b18e-0e0a44e66c15)
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/thaheavenservices/)<br />
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/thaheavenservices/)<br /> 
+[Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)<br /> 
 Marina is dedicated to my mom, who passed away in 2022 from cancer. Donations will go toward maintaining the grave and planting trees.
 
 [Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)
