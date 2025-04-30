@@ -1,4 +1,5 @@
-![marina pr2](https://github.com/user-attachments/assets/15faf178-0ad8-4e24-b18e-0e0a44e66c15)
+![welcome marina wide](https://github.com/user-attachments/assets/83685cc7-4302-4bf5-b0aa-0cb206adf9c0)
+
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/thaheavenservices/)<br /> 
 [Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)<br /> 
