@@ -4,9 +4,6 @@
 [Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)<br /> 
 Marina is dedicated to my mom, who passed away in 2022 from cancer. Donations will go toward maintaining the grave and planting trees.
 
-[Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)
-
-
 **Marina** is an all-in-one VST plugin built for vocal adlibs, designed to deliver a telephone-style effect with ease. It features two intuitive knobs to adjust EQ range and add subtle reverb, plus three built-in effects:
 
 **Haas Effect** for stereo width <br />
