@@ -13,3 +13,7 @@ Marina is dedicated to my mom, who passed away in 2022 from cancer. Donations wi
 I created Marina with simplicity and usability in mind - to give artists a fast tool that helps translate ideas into sound without getting in the way.
 Its name and visual design are inspired by city Riga, Latvia and the sea-nature aesthetic of Greece - two places that mean a lot to me.<br />
 -kira, pro mixing engineer
+
+# Contact 
+
+[SoundBetter](https://soundbetter.com/profiles/62415-san-kira) – mixing work & credits – get your song mixed and polished by me.
