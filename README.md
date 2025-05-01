@@ -2,7 +2,8 @@
 
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/thaheavenservices/)<br /> 
-[Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/release/Marina.exe)<br /> 
+[Download for Windows](https://github.com/thaheaven/MarinaVST/releases/download/0.1.0-Win/Marina.exe)<br /> 
+[Download for Mac](https://github.com/thaheaven/MarinaVST/releases/download/0.1.0/Marina.vst3.zip)<br /> 
 Marina is dedicated to my mom, who passed away in 2022 from cancer. Donations will go toward maintaining the grave and planting trees.
 
 **Marina** is an all-in-one VST plugin built for vocal adlibs, designed to deliver a telephone-style effect with ease. It features two intuitive knobs to adjust EQ range and add subtle reverb, plus three built-in effects:
